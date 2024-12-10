@@ -1,0 +1,15 @@
+C:\Users\Dhvani\source\repos\LT\LT\bin\Release\LT.exe.config
+C:\Users\Dhvani\source\repos\LT\LT\bin\Release\LT.exe
+C:\Users\Dhvani\source\repos\LT\LT\bin\Release\LT.pdb
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.csproj.AssemblyReference.cache
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\MainWindow.g.cs
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\App.g.cs
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT_MarkupCompile.cache
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT_MarkupCompile.lref
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\MainWindow.baml
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.g.resources
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.Properties.Resources.resources
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.csproj.GenerateResource.cache
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.csproj.CoreCompileInputs.cache
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.exe
+C:\Users\Dhvani\source\repos\LT\LT\obj\Release\LT.pdb
